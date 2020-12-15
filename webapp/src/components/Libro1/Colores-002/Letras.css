@@ -1,0 +1,62 @@
+/* Boton Español Verde */
+.verde {
+    color: #00861c;
+}
+
+.celeste{
+    color: #51a5db;
+}
+
+.azul{
+    color: #0055bf;
+}
+
+.rojo{
+    color: #e3000b;
+}
+
+.naranja{
+    color: #ff8500;
+}
+
+.amarillo{
+    color:#ffed00;
+}
+
+.lettler_spanish, .lettler_english{
+    margin-bottom: 10px;
+}
+
+.content_lettler{
+    float: left;
+}
+
+.brick-container{
+    float: left;
+    width: 100px;
+}
+
+.btnInactive{
+    visibility: hidden;
+}
+
+.btnActive{
+    visibility: visible;
+}
+
+.activity-container{
+    margin-top: 20vh;
+}
+
+.activity-container > div {
+    margin-bottom: 20px;
+}
+
+.pagination {
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.hidden {
+    display: none;
+}
